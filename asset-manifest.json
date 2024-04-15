@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simobecarevic/static/css/main.a6a6296d.css",
+    "main.js": "/simobecarevic/static/js/main.4c3364c9.js",
+    "static/js/453.a69270cd.chunk.js": "/simobecarevic/static/js/453.a69270cd.chunk.js",
+    "index.html": "/simobecarevic/index.html",
+    "main.a6a6296d.css.map": "/simobecarevic/static/css/main.a6a6296d.css.map",
+    "main.4c3364c9.js.map": "/simobecarevic/static/js/main.4c3364c9.js.map",
+    "453.a69270cd.chunk.js.map": "/simobecarevic/static/js/453.a69270cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a6296d.css",
+    "static/js/main.4c3364c9.js"
+  ]
+}
